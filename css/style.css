@@ -298,6 +298,10 @@ and (min-width: 780px) {
 		width: 50%;
 		margin-top: 0em;
 	}
+
+	.resume img {
+		width: 100%;
+	}
 	
 	/* PAGE FOUR */
 
