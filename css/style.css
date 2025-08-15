@@ -537,11 +537,11 @@ and (min-width: 550px) {
 	.power-text {
 		margin-top: 2em;
 		width: 85%;
-		text-align: left;
+		text-align: justify;
 	}
 
-	.power-text p {
-		text-align: justify;
+	.power-text h1 {
+		text-align: left;
 	}
 
 	.power img {
