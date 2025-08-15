@@ -537,6 +537,10 @@ and (min-width: 550px) {
 	.power-text {
 		margin-top: 2em;
 		width: 85%;
+		text-align: left;
+	}
+
+	.power-text p {
 		text-align: justify;
 	}
 
