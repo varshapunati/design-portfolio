@@ -73,7 +73,7 @@ and (min-width: 550px) {
 		text-decoration: none;
 		padding: 2em;
 		color: #D1BE34;
-		font-size: 1.5em;
+		font-size: 1.2em;
 	}
 
 	.stay {
@@ -450,7 +450,7 @@ and (min-width: 550px) {
 	nav {
 		clear: both;
 		background-color: #265F55;
-		padding: .5em 1em;
+		padding: .5em;
 	}
 
 	nav a {
@@ -458,6 +458,7 @@ and (min-width: 550px) {
 		padding: 1.1em;
 		color: #D1BE34;
 		line-height: 2em;
+		font-size: 1.1em;
 	}
 
 	.stay {
